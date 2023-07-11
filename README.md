@@ -1,6 +1,5 @@
-# flutter_webdeneme
-
-A new Flutter application.
+# Nobetci Eczane
+It was developed for learning API environment of Flutter.
 
 ## Getting Started
 
